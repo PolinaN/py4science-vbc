@@ -1,6 +1,7 @@
 ****************************************
 get control of your source code with git
 ****************************************
+I made some changes
 
 Today:
 
